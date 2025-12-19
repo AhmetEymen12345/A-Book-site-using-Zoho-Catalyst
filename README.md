@@ -63,7 +63,7 @@ A full-stack interactive novel reading experience built with modern web technolo
 ## 📁 Project Structure
 
 ```
-novel-november/
+Project/
 ├── app/
 │   ├── index.html           # Desktop interface
 │   ├── mobile.html          # Mobile interface
@@ -74,15 +74,13 @@ novel-november/
 │   └── config.js           # Configuration
 │
 ├── functions/
-│   └── novelnovemberfunction/
+│   └── <projectname>functions/
 │       └── index.js        # Backend API endpoints
 │
-├── images/                 # Chapter illustrations
 ├── .gitignore
 ├── README.md
-├── SETUP.md               # Detailed setup guide
-├── CONTRIBUTING.md        # Contribution guidelines
-└── LICENSE
+└── SETUP.md               # Detailed setup guide
+ 
 ```
 
 ## 📖 Usage
