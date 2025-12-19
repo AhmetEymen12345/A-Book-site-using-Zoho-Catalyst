@@ -31,7 +31,7 @@ A full-stack interactive novel reading experience built with modern web technolo
 - Progress tracking
 - Fullscreen mode for immersive reading
 
-### 🔔 Admin Features [Under Construction]
+### 🔔 Admin Features [⚙️ Under Construction]
 - Zoho Cliq notification system for new chapters
 - Admin-only access controls
 - User management dashboard
