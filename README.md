@@ -26,14 +26,13 @@ A full-stack interactive novel reading experience built with modern web technolo
 - Character count validation (max 1000 characters)
 
 ### 🎨 Rich Reading Experience
-- 30 chapters with images and formatted text
 - Smooth page transitions
 - Chapter navigation sidebar
 - Progress tracking
 - Fullscreen mode for immersive reading
 
-### 🔔 Admin Features
-- Cliq notification system for new chapters
+### 🔔 Admin Features [Under Construction]
+- Zoho Cliq notification system for new chapters
 - Admin-only access controls
 - User management dashboard
 
@@ -86,46 +85,6 @@ novel-november/
 └── LICENSE
 ```
 
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js (v14 or higher)
-- Zoho Catalyst CLI
-- Modern web browser
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/YOUR_USERNAME/novel-november.git
-cd novel-november
-```
-
-2. **Install dependencies**
-```bash
-npm install
-```
-
-3. **Configure the backend**
-
-Edit `app/config.js`:
-```javascript
-// For development
-const BASE_URL = 'https://your-dev-url.development.catalystserverless.in';
-
-// For production
-const BASE_URL = 'https://your-prod-url.catalystserverless.in';
-```
-
-4. **Deploy to Catalyst**
-```bash
-catalyst deploy
-```
-
-5. **Access the application**
-- Desktop: `https://your-url/app/index.html`
-- Mobile: `https://your-url/app/mobile.html`
-
 ## 📖 Usage
 
 ### For Readers
@@ -135,10 +94,7 @@ catalyst deploy
 4. **Join discussions** by posting comments
 5. **Track progress** through the chapter list
 
-### For Admins
-1. Access the admin notification button (bottom-right)
-2. Enter chapter number to announce
-3. System sends Cliq DMs to all subscribed users
+
 
 ## 🔧 Configuration
 
@@ -198,39 +154,22 @@ AUTH_SIGNUP_URL: Signup endpoint
 1. **Browser Storage** - localStorage not supported in artifacts (by design)
 2. **Image Loading** - Requires stable internet connection
 3. **Mobile Landscape** - Best viewed in portrait mode
+4. **Duplicate Ratings** - From console ratings can be dupilcated
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-### How to Contribute
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **Team CodeCraft** - Initial work and story writing
-- Multiple authors contributed to different chapters (see individual chapter credits)
-
 ## 🙏 Acknowledgments
 
 - Turn.js library for flipbook functionality
 - Zoho Catalyst for backend infrastructure
-- All contributing authors and testers
-- The CodeCraft community
 
 ## 📞 Support
 
 For issues and questions:
 - Create an issue on GitHub
-- Contact: aathithyan.v@zohocorp.com
 
 ## 🗺️ Roadmap
 
@@ -241,14 +180,12 @@ For issues and questions:
 - [ ] Multilingual support
 - [ ] Audio narration
 - [ ] Social sharing features
+- [ ] System sends Cliq DMs to all subscribed users
+- [ ] Admin Panel
 
 ## 📊 Project Stats
 
-- **30 Chapters** written
-- **Multiple authors** collaborated
 - **Full-stack implementation** with authentication
 - **Real-time features** for ratings and comments
 
----
-
-Made with ❤️ by the Novel November Team
+Created by Aathithyan Vandhiyan [AKA Aathithyan V L]
