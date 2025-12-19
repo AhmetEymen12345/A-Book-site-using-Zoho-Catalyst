@@ -88,11 +88,10 @@ novel-november/
 ## 📖 Usage
 
 ### For Readers
-1. **Sign up** with your @zohocorp.com email
-2. **Browse chapters** using the sidebar navigation
-3. **Rate chapters** after reading (1-5 stars)
-4. **Join discussions** by posting comments
-5. **Track progress** through the chapter list
+1. **Browse chapters** using the sidebar navigation
+2. **Rate chapters** after reading (1-5 stars)
+3. **Join discussions** by posting comments
+4. **Track progress** through the chapter list
 
 
 
